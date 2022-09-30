@@ -1,0 +1,4 @@
+Crear base de datos DB_EXAMPLE en SQL Server
+Crear tablas en TablasEjemplo.sql
+Cargar schema a Power Bi
+Instalar Pentaho

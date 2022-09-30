@@ -1,0 +1,32 @@
+Ir a SQL Sever Configuration
+Pestaña de SQL Server Network Configuration
+Habilitar todos
+Dar Click a TCP/IP
+Todos los TCP Port a 1433
+Dar aplicar y aceptar
+
+Pentaho
+
+Extrer el zip de pentaho
+Copiar carpeta de "data integration" a Program Files
+
+Abrir carpeta de pentaho
+Spoon.bat es ejecutable para windows
+
+dentro de la carpeta lib de pentaho añadir contenidos de carpeta lib de repo
+dentro de la carpeta libswt>win64 añadir contenidos de carpeta libswt
+
+copiar ruta del spoon.bat
+abrir cmd
+pegar ruta
+ejecutar spoon.bat
+
+File>New>Transformation
+
+En la pestaña View se ve la nueva transformación
+
+Conectar a base de datos por input de tabla.
+
+Hacer ejemplo de cargar archivo excel HR, filtrar los datos con y sin comision
+Guardar en base de datos
+Pentaho genera archivo SQL, se tiene que arreglar con primar keys y demás
